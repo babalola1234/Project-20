@@ -1,0 +1,1 @@
+CREATE USER 'babadeen'@'%' IDENTIFIED BY ''; GRANT ALL PRIVILEGES ON * . * TO 'babadeen'@'%';
