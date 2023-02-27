@@ -1,4 +1,5 @@
 # Project-20
+<<<<<<< HEAD
 MIGRATION TO THE СLOUD WITH CONTAINERIZATION. PART 1 – DOCKER & DOCKER COMPOSE
 
 The YAML file has declarative fields, and it is vital to understand what they are used for.
@@ -14,3 +15,6 @@ links
 You can visit the site here to find all the fields and read about each one that currently matters to you -> https://www.balena.io/docs/reference/supervisor/docker-compose/
 
 You may also go directly to the official documentation site to read about each field here -> https://docs.docker.com/compose/compose-file/compose-file-v3/
+=======
+MIGRATION TO THE СLOUD WITH CONTAINERIZATION. PART 1 – DOCKER and DOCKER COMPOSE
+>>>>>>> f8099668c6c58102477ba77d0c360c7469c83c78
